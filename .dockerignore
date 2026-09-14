@@ -1,0 +1,12 @@
+.git
+.gitignore
+
+.env
+
+tmp/
+vendor/
+
+.idea/
+.vscode/
+
+*.log
